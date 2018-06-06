@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AppupdateLibrary</string>
+    <string name="DownloadResume">Continue</string>
+    <string name="YouCanOnlyDownloadThree">You can download up to five tasks at the same time, please wait …</string>
+    <string name="NeedInstallPerssion">未开启安装权限</string>
+    <string name="update_updatetitle">发现新版本</string>
+    <string name="update_notnow">下次再说</string>
+    <string name="Version">Version：</string>
+    <string name="Size">Size：</string>
+    <string name="ReleaseDate">Release date：</string>
+    <string name="Updates">Updates</string>
+    <string name="QueryAppInfoError">查询App信息出错</string>
+    <string name="Download">立即更新</string>
+    <string name="Update">立即更新</string>
+    <string name="DownloadInstall">立即安装</string>
+    <string name="Open">Open</string>
+    <string name="DownloadWaiting">Wait</string>
+    <string name="CurrentIsLatestVersion">当前是最新版本</string>
+    <string name="NoConnectNet">网路未连接</string>
+    <string name="backgroundDownload">后台下载</string>
+    <string name="Downloading">下载中…</string>
+    <string name="Error">Error</string>
+</resources>

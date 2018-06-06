@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AppupdateLibrary</string>
+    <string name="NeedInstallPerssion">The software requires installation permissions.</string>
+    <string name="YouCanOnlyDownloadThree">You can download up to five tasks at the same time, please wait…</string>
+    <string name="Version">Version：</string>
+    <string name="Size">Size：</string>
+    <string name="ReleaseDate">Release date：</string>
+    <string name="Updates">Updates</string>
+    <string name="DownloadResume">Continue</string>
+    <string name="Open">Open</string>
+    <string name="DownloadWaiting">Wait</string>
+    <string name="update_updatetitle">New Version available</string>
+    <string name="update_notnow">Not now</string>
+    <string name="QueryAppInfoError">Query Info. Error</string>
+    <string name="Update">Upgrade now</string>
+    <string name="DownloadInstall">Install now</string>
+    <string name="CurrentIsLatestVersion">Current version is the newest</string>
+    <string name="NoConnectNet">No Internet Connection</string>
+    <string name="backgroundDownload">Back-end Downloading</string>
+    <string name="Downloading">Downloading…</string>
+    <string name="Download">Upgrade now</string>
+    <string name="Error">Error</string>
+</resources>
